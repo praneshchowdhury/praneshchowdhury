@@ -1,4 +1,4 @@
-## Hello
+# 👋 Hello, I am Pranesh Chowdhury!
 - I'm currently learning C programming. 🧑‍💻
 ## Languages & tools
 <img width="40" alt="image" src="https://github.com/user-attachments/assets/2d1f470b-3dc5-4698-bf87-e87af891bb7e" /> 
